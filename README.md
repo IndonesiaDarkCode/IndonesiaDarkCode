@@ -12,4 +12,4 @@
 [![php](https://img.shields.io/badge/php--black?style=flat&logo=php&link=https://github.com/Beutrano/php)](https://github.com/https://github.com/extimative/php)
 [![bash](https://img.shields.io/badge/bash--black?style=flat&logo=bash&link=https://github.com/Beutrano/bash)](https://github.com/https://github.com/extimative/bash)
 
-#Let's Play Code
+#Let's a Play Code
