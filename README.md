@@ -12,6 +12,8 @@
 [![php](https://img.shields.io/badge/php--black?style=flat&logo=php&link=https://github.com/Beutrano/php)](https://github.com/https://github.com/extimative/php)
 [![bash](https://img.shields.io/badge/bash--black?style=flat&logo=bash&link=https://github.com/Beutrano/bash)](https://github.com/https://github.com/extimative/bash)
 <br><br>
+[![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=IndonesiaDarkCode&layout=compact)](https://github.com/https://github.com/extimative/language)
+<br>
 [![status](https://github-readme-stats.vercel.app/api?username=IndonesiaDarkCode&show_icons=true)](https://github.com/https://github.com/extimative/status)
 
 #Let's a Play Code
