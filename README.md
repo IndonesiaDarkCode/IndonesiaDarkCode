@@ -3,6 +3,7 @@
 # IDC-TEAM
 <img align="right" alt="GIF" height="250" width="250"  src="https://i.ibb.co/XD3gSTB/22-00-36-8c782ea0d5a29edb8ccec39c78857ccc.jpg" />
 <p align="center">Hello, this is the official github account Indonesia Dark Code</p>
+[![view](https://komarev.com/ghpvc/?username=Indonesia%20Dark%20Code)](https://github.com/https://github.com/extimative/Python)
 
 
 #                                                                    *Languages and tools*
